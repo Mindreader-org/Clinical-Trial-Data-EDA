@@ -1,0 +1,35 @@
+{
+  "comparison_summary": "The three trials differ mainly in the type of evidence they provide. NCT02057250 offers posted results but only for device usability and pharmacokinetics, not for clinical benefit. NCT00996203 is a post\u2011marketing study with patient\u2011reported outcomes but lacks published results and a control arm. NCT02744196 is a Phase\u00a03 design with clear endpoints but no results or publications, leaving all efficacy and safety signals unverified.",
+  "strongest_trial_by_available_evidence": {
+    "nct_id": "NCT02057250",
+    "reason": "Results are posted and raw data are available, providing the most concrete evidence among the three, even though the endpoints focus on device performance rather than clinical efficacy."
+  },
+  "strongest_trial_for_patient_adoption": {
+    "nct_id": "NCT02057250",
+    "reason": "The study evaluates a self\u2011injectable auto\u2011injector device, directly addressing patient\u2011handled administration and potential ease of use."
+  },
+  "strongest_trial_for_research_confidence": {
+    "nct_id": "NCT02057250",
+    "reason": "The trial is Phase\u00a03, randomized, multicenter, and has posted results, giving the highest level of methodological rigor and data availability."
+  },
+  "highest_uncertainty_trial": {
+    "nct_id": "NCT02744196",
+    "reason": "No results, publications, or safety data are available, leaving all key signals unverified."
+  },
+  "main_cross_trial_gaps": [
+    "Absence of clinical efficacy data (ACR, DAS28) for NCT02744196 and NCT00996203.",
+    "Missing safety and adverse event reporting for all three trials.",
+    "No patient\u2011reported outcome data for NCT02057250.",
+    "Limited information on long\u2011term outcomes and durability of response.",
+    "Lack of peer\u2011reviewed publications or external validation for all studies."
+  ],
+  "what_to_check_next": [
+    "Obtain the posted results for NCT02057250 to confirm device failure rates and pharmacokinetic data.",
+    "Search for any subsequent publications or conference abstracts for NCT00996203 and NCT02744196.",
+    "Request detailed safety data (AE/SAE counts) for each trial.",
+    "Verify whether NCT00996203 has any comparator data or additional outcome measures not captured in the source.",
+    "Confirm the patient\u2011adoption burden details (e.g., dosing frequency, home use) for the auto\u2011injector in NCT02057250."
+  ],
+  "non_expert_explanation": "Think of the three studies like three different road maps. One map (NCT02057250) shows the road signs and traffic lights (it has posted data) but only for the part of the journey that involves the vehicle\u2019s mechanics, not how the trip feels. Another map (NCT00996203) tells you how people felt on the trip (patient reports) but doesn\u2019t show the actual road conditions or a comparison to other routes. The last map (NCT02744196) looks promising on paper (it\u2019s a big, well\u2011designed study) but has no pictures or GPS data, so we can\u2019t tell if the road is safe or smooth. The biggest gaps are that none of the maps give a full picture of safety, long\u2011term comfort, or how the journey compares to other options. The next step is to look for the missing pictures and road\u2011condition reports for each map.",
+  "do_not_conclude": []
+}

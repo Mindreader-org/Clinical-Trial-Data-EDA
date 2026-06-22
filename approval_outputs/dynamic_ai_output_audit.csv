@@ -1,0 +1,34 @@
+nct_id,dimension_key,schema_valid,missing_schema_keys,hallucination_warnings,warning_count
+NCT02744196,trial_identity,True,[],[],0
+NCT02744196,clinical_efficacy_interpretability,True,[],[],0
+NCT02744196,endpoint_meaningfulness,False,['do_not_conclude'],[],0
+NCT02744196,safety_and_tolerability,True,[],"[""Potential overclaim: 'no side effects'""]",1
+NCT02744196,patient_adoption_burden,True,[],[],0
+NCT02744196,population_relevance,True,[],[],0
+NCT02744196,study_design_quality,True,[],[],0
+NCT02744196,regulatory_readiness,True,[],[],0
+NCT02744196,evidence_transparency,True,[],[],0
+NCT02744196,red_team_risk_review,True,[],[],0
+NCT02744196,economic_and_access_relevance,True,[],[],0
+NCT00996203,trial_identity,True,[],[],0
+NCT00996203,Clinical Efficacy Interpretability,True,[],[],0
+NCT00996203,endpoint_meaningfulness,True,[],[],0
+NCT00996203,safety_and_tolerability,True,[],"[""Potential overclaim: 'no side effects'""]",1
+,patient_adoption_burden,False,"['dimension_name', 'nct_id']",[],0
+NCT00996203,study_design_quality,True,[],[],0
+NCT00996203,regulatory_readiness,True,[],[],0
+NCT00996203,economic_and_access_relevance,True,[],[],0
+NCT00996203,evidence_transparency,False,['do_not_conclude'],[],0
+NCT00996203,red_team_risk_review,True,[],[],0
+NCT00996203,population_relevance,False,['do_not_conclude'],[],0
+NCT02057250,trial_identity,True,[],[],0
+NCT02057250,clinical_efficacy_interpretability,True,[],[],0
+NCT02057250,endpoint_meaningfulness,True,[],[],0
+NCT02057250,safety_and_tolerability,True,[],[],0
+NCT02057250,patient_adoption_burden,True,[],[],0
+NCT02057250,study_design_quality,True,[],[],0
+NCT02057250,regulatory_readiness,True,[],[],0
+NCT02057250,economic_and_access_relevance,True,[],[],0
+NCT02057250,evidence_transparency,True,[],[],0
+NCT02057250,red_team_risk_review,True,[],[],0
+NCT02057250,population_relevance,True,[],[],0

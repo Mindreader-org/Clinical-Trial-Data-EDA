@@ -1,0 +1,157 @@
+{
+  "suggested_new_dimensions": [
+    {
+      "dimension_key": "treatment_adherence",
+      "display_name": "Treatment Adherence and Persistence",
+      "why_it_matters": "Adherence influences real\u2011world effectiveness and safety signals. Understanding dropout rates, missed doses, and reasons for discontinuation helps predict long\u2011term benefit and informs patient support programs.",
+      "source_fields_needed": [
+        "eligibility_criteria_excerpt",
+        "outcomes",
+        "design",
+        "trial_identity"
+      ],
+      "possible_features": [
+        "percentage_of_patients_with_any_discontinuation",
+        "average_days_between_doses",
+        "proportion_of_patients_with_missing_doses",
+        "time_to_first_discontinuation",
+        "reasons_for_discontinuation_by_category"
+      ],
+      "what_ai_should_analyze": [
+        "correlate adherence metrics with primary and secondary outcomes",
+        "identify patient subgroups with higher non\u2011adherence",
+        "predict risk of dropout based on baseline characteristics"
+      ],
+      "what_ai_must_not_claim": [
+        "directly infer causality between adherence and outcomes without controlled analysis",
+        "predict individual patient adherence beyond statistical uncertainty"
+      ]
+    },
+    {
+      "dimension_key": "safety_profile_comparison",
+      "display_name": "Comparative Safety Profile Across Arms",
+      "why_it_matters": "Safety signals such as serious adverse events (SAEs) or immunogenicity are critical for regulatory decisions and clinical practice. A side\u2011by\u2011side comparison highlights differences that may not be apparent in aggregate data.",
+      "source_fields_needed": [
+        "outcomes",
+        "design",
+        "trial_identity"
+      ],
+      "possible_features": [
+        "incidence_rate_of_SAE_per_arm",
+        "incidence_rate_of_AE_grade_3_4_per_arm",
+        "binding_and_neutralizing_antibody_rates",
+        "time_to_first_SAE",
+        "distribution_of_AE_systemic_vs_local"
+      ],
+      "what_ai_should_analyze": [
+        "statistical comparison of safety endpoints between treatment and control",
+        "temporal patterns of adverse events",
+        "association between immunogenicity and clinical response"
+      ],
+      "what_ai_must_not_claim": [
+        "declare superiority or inferiority of safety without formal statistical testing",
+        "attribute causality to specific drug components without evidence"
+      ]
+    },
+    {
+      "dimension_key": "patient_reported_outcomes",
+      "display_name": "Patient\u2011Reported Outcome (PRO) Trajectories",
+      "why_it_matters": "PROs capture the patient perspective on pain, function, and quality of life, which are key endpoints in rheumatoid arthritis trials. Trend analysis informs benefit\u2011risk assessment.",
+      "source_fields_needed": [
+        "outcomes",
+        "eligibility_criteria_excerpt"
+      ],
+      "possible_features": [
+        "mean_change_in_HAQ_over_time",
+        "proportion_with_minimal_clinically_important_difference_in_EQ5D",
+        "trajectory_of_VAS_pain_scores",
+        "time_to_achieve_50_percent_reduction_in_pain"
+      ],
+      "what_ai_should_analyze": [
+        "compare PRO trajectories between arms",
+        "identify predictors of meaningful PRO improvement",
+        "evaluate consistency of PRO changes with clinical measures"
+      ],
+      "what_ai_must_not_claim": [
+        "assert that PRO improvements directly translate to clinical benefit without corroborating objective data",
+        "over\u2011interpret small numerical differences as clinically significant"
+      ]
+    },
+    {
+      "dimension_key": "dosing_regimen_efficacy",
+      "display_name": "Impact of Dosing Frequency and Amount on Efficacy",
+      "why_it_matters": "Different dosing schedules can affect drug exposure, efficacy, and safety. Understanding these relationships guides optimal dosing strategies.",
+      "source_fields_needed": [
+        "design",
+        "outcomes",
+        "trial_identity"
+      ],
+      "possible_features": [
+        "average_daily_dose_per_arm",
+        "dose_interval_variation",
+        "drug_exposure_metrics (e.g., AUC)",
+        "response_rate_by_dose_level",
+        "dose_adjustment_frequency"
+      ],
+      "what_ai_should_analyze": [
+        "dose\u2011response modeling",
+        "association between exposure metrics and clinical endpoints",
+        "optimal dosing recommendations based on efficacy\u2011safety trade\u2011off"
+      ],
+      "what_ai_must_not_claim": [
+        "recommend specific dosing changes without clinical trial evidence",
+        "assert causality between dose and outcome without controlled analysis"
+      ]
+    },
+    {
+      "dimension_key": "subgroup_analysis_by_biomarkers",
+      "display_name": "Biomarker\u2011Based Subgroup Efficacy",
+      "why_it_matters": "Biomarkers such as anti\u2011CCP or RF status may predict response to biologics. Subgroup analysis informs personalized medicine.",
+      "source_fields_needed": [
+        "eligibility_criteria_excerpt",
+        "disease_and_intervention",
+        "outcomes"
+      ],
+      "possible_features": [
+        "response_rate_in_RF_positive_vs_negative",
+        "response_rate_in_antiCCP_positive_vs_negative",
+        "time_to_response_by_biomarker",
+        "interaction_effects_between_biomarker_and_treatment"
+      ],
+      "what_ai_should_analyze": [
+        "statistical interaction tests",
+        "predictive value of biomarkers for treatment response",
+        "subgroup\u2011specific safety signals"
+      ],
+      "what_ai_must_not_claim": [
+        "declare definitive predictive biomarkers without validation",
+        "over\u2011state clinical utility of biomarkers beyond the study data"
+      ]
+    },
+    {
+      "dimension_key": "device_usability_and_error_rates",
+      "display_name": "Device Usability and Technical Failure Rates",
+      "why_it_matters": "For trials involving auto\u2011injectors or other devices, usability impacts adherence and safety. Quantifying technical failures informs device improvement.",
+      "source_fields_needed": [
+        "outcomes",
+        "design",
+        "trial_identity"
+      ],
+      "possible_features": [
+        "overall_PTF_rate_per_arm",
+        "most_common_PTC_types",
+        "time_to_first_PTF",
+        "correlation_between_PTFs_and_adverse_events"
+      ],
+      "what_ai_should_analyze": [
+        "compare device failure rates across device types",
+        "identify user\u2011related factors contributing to failures",
+        "assess impact of failures on clinical outcomes"
+      ],
+      "what_ai_must_not_claim": [
+        "attribute failures to device design without engineering review",
+        "predict future device performance beyond observed data"
+      ]
+    }
+  ]
+}

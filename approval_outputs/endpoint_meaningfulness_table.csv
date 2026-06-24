@@ -1,0 +1,4 @@
+nct_id,endpoint_type,endpoint_tier,clinical_meaning
+NCT02744196,Surrogate / biomarker endpoint,Tier 4,Biological or surrogate measure that may need validation against clinical outcomes.
+NCT00996203,Patient-reported / quality-of-life endpoint,Tier 2,Patient-centered outcome that may capture real-world benefit.
+NCT02057250,Other endpoint,Unclear,Endpoint meaning is not clearly available from parsed source data.

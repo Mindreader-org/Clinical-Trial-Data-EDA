@@ -1,0 +1,230 @@
+query,category,priority,expected_source,notes
+"""32032"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""4"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""BAIS2018"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""BEN 2293"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""BEN-2293"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""BEN2293"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""Ben 2293"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""Ben2293"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""Eczema"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""Placebo"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""ben 2293"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""ben2293"" ""atopic dermatitis""",asset_disease,1,literature/web/registry,Asset plus disease
+"""32032"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""4"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""BAIS2018"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""BEN 2293"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""BEN-2293"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""BEN2293"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""Ben 2293"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""Ben2293"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""Eczema"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""Placebo"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""ben 2293"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""ben2293"" ""BenevolentAI""",asset_sponsor,1,web/company/registry,Asset plus sponsor
+"""32032""",exact_asset,1,all,Exact asset alias
+"""4""",exact_asset,1,all,Exact asset alias
+"""BAIS2018""",exact_asset,1,all,Exact asset alias
+"""BEN 2293""",exact_asset,1,all,Exact asset alias
+"""BEN-2293""",exact_asset,1,all,Exact asset alias
+"""BEN2293""",exact_asset,1,all,Exact asset alias
+"""Ben 2293""",exact_asset,1,all,Exact asset alias
+"""Ben2293""",exact_asset,1,all,Exact asset alias
+"""Eczema""",exact_asset,1,all,Exact asset alias
+"""Placebo""",exact_asset,1,all,Exact asset alias
+"""ben 2293""",exact_asset,1,all,Exact asset alias
+"""ben2293""",exact_asset,1,all,Exact asset alias
+"""NCT00557284""",nct,1,registry/literature/web,Known NCT ID
+"""NCT03831646""",nct,1,registry/literature/web,Known NCT ID
+"""NCT04737304""",nct,1,registry/literature/web,Known NCT ID
+"""NCT04986384""",nct,1,registry/literature/web,Known NCT ID
+"""32032"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""32032"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""32032"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""32032"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""32032"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""32032"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""32032"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""32032"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""4"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""4"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""4"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""4"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""4"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""4"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""4"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""4"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""BAIS2018"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""BAIS2018"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""BAIS2018"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""BAIS2018"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""BAIS2018"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""BAIS2018"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""BAIS2018"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""BAIS2018"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""BEN 2293"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""BEN 2293"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""BEN 2293"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""BEN 2293"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""BEN 2293"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""BEN 2293"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""BEN 2293"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""BEN 2293"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""BEN-2293"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""BEN-2293"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""BEN-2293"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""BEN-2293"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""BEN-2293"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""BEN-2293"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""BEN-2293"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""BEN-2293"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""BEN2293"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""BEN2293"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""BEN2293"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""BEN2293"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""BEN2293"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""BEN2293"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""BEN2293"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""BEN2293"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""Ben 2293"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""Ben 2293"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""Ben 2293"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""Ben 2293"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""Ben 2293"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""Ben 2293"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""Ben 2293"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""Ben 2293"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""Ben2293"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""Ben2293"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""Ben2293"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""Ben2293"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""Ben2293"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""Ben2293"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""Ben2293"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""Ben2293"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""BenevolentAI"" ""32032"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""BenevolentAI"" ""4"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""BenevolentAI"" ""BAIS2018"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""BenevolentAI"" ""BEN 2293"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""BenevolentAI"" ""BEN-2293"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""BenevolentAI"" ""BEN2293"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""BenevolentAI"" ""Ben 2293"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""BenevolentAI"" ""Ben2293"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""BenevolentAI"" ""Eczema"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""BenevolentAI"" ""Placebo"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""BenevolentAI"" ""ben 2293"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""BenevolentAI"" ""ben2293"" filetype:pdf",file_pdf,2,web/pdf,Sponsor PDF search
+"""Eczema"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""Eczema"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""Eczema"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""Eczema"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""Eczema"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""Eczema"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""Eczema"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""Eczema"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""Placebo"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""Placebo"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""Placebo"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""Placebo"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""Placebo"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""Placebo"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""Placebo"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""Placebo"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""ben 2293"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""ben 2293"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""ben 2293"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""ben 2293"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""ben 2293"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""ben 2293"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""ben 2293"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""ben 2293"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""ben2293"" ""conference abstract""",file_pdf,2,web/conference/company,Asset plus conference abstract
+"""ben2293"" ""discontinued""",file_pdf,2,web/conference/company,Asset plus discontinued
+"""ben2293"" ""investor deck""",file_pdf,2,web/conference/company,Asset plus investor deck
+"""ben2293"" ""phase""",file_pdf,2,web/conference/company,Asset plus phase
+"""ben2293"" ""poster""",file_pdf,2,web/conference/company,Asset plus poster
+"""ben2293"" ""presentation""",file_pdf,2,web/conference/company,Asset plus presentation
+"""ben2293"" ""results""",file_pdf,2,web/conference/company,Asset plus results
+"""ben2293"" filetype:pdf",file_pdf,2,web/pdf,PDF search
+"""BenevolentAI"" ""atopic dermatitis"" discontinued",sponsor_disease,2,web/registry,Sponsor disease discontinued
+"""BenevolentAI"" ""atopic dermatitis"" phase",sponsor_disease,2,web/registry,Sponsor disease phase
+"""BenevolentAI"" ""atopic dermatitis"" results",sponsor_disease,2,web/registry,Sponsor disease results
+"""BenevolentAI"" ""atopic dermatitis"" trial",sponsor_disease,2,web/registry,Sponsor disease trial
+"site:sec.gov ""32032"" ""BenevolentAI""",sec_company,3,SEC,SEC/company filings
+"site:sec.gov ""4"" ""BenevolentAI""",sec_company,3,SEC,SEC/company filings
+"site:sec.gov ""BEN-2293"" ""BenevolentAI""",sec_company,3,SEC,SEC/company filings
+"site:sec.gov ""Ben2293"" ""BenevolentAI""",sec_company,3,SEC,SEC/company filings
+"site:sec.gov ""Eczema"" ""BenevolentAI""",sec_company,3,SEC,SEC/company filings
+"""TrkA inhibitor"" ""atopic dermatitis""",target_mechanism,3,literature/web,Inhibitor mechanism
+"""TrkA"" ""atopic dermatitis""",target_mechanism,3,literature/web,Target plus disease
+"""neurotrophin inhibitor"" ""atopic dermatitis""",target_mechanism,3,literature/web,Inhibitor mechanism
+"""neurotrophin"" ""atopic dermatitis""",target_mechanism,3,literature/web,Target plus disease
+"""neurotrophin"" ""pruritus""",target_mechanism,3,literature/web,Neurotrophin pruritus context
+"""pan-Trk inhibitor"" ""atopic dermatitis""",target_mechanism,3,literature/web,Inhibitor mechanism
+"""pan-Trk"" ""atopic dermatitis""",target_mechanism,3,literature/web,Target plus disease
+"site:aacr.org ""32032""",conference_society,4,AACR,AACR domain search
+"site:aacr.org ""4""",conference_society,4,AACR,AACR domain search
+"site:aacr.org ""BEN-2293""",conference_society,4,AACR,AACR domain search
+"site:aacr.org ""Ben2293""",conference_society,4,AACR,AACR domain search
+"site:aacr.org ""Eczema""",conference_society,4,AACR,AACR domain search
+"site:acrabstracts.org ""32032""",conference_society,4,ACR,ACR domain search
+"site:acrabstracts.org ""4""",conference_society,4,ACR,ACR domain search
+"site:acrabstracts.org ""BEN-2293""",conference_society,4,ACR,ACR domain search
+"site:acrabstracts.org ""Ben2293""",conference_society,4,ACR,ACR domain search
+"site:acrabstracts.org ""Eczema""",conference_society,4,ACR,ACR domain search
+"site:asco.org ""32032""",conference_society,4,ASCO,ASCO domain search
+"site:asco.org ""4""",conference_society,4,ASCO,ASCO domain search
+"site:asco.org ""BEN-2293""",conference_society,4,ASCO,ASCO domain search
+"site:asco.org ""Ben2293""",conference_society,4,ASCO,ASCO domain search
+"site:asco.org ""Eczema""",conference_society,4,ASCO,ASCO domain search
+"site:ashpublications.org ""32032""",conference_society,4,ASH,ASH domain search
+"site:ashpublications.org ""4""",conference_society,4,ASH,ASH domain search
+"site:ashpublications.org ""BEN-2293""",conference_society,4,ASH,ASH domain search
+"site:ashpublications.org ""Ben2293""",conference_society,4,ASH,ASH domain search
+"site:ashpublications.org ""Eczema""",conference_society,4,ASH,ASH domain search
+"site:ddw.org ""32032""",conference_society,4,DDW,DDW domain search
+"site:ddw.org ""4""",conference_society,4,DDW,DDW domain search
+"site:ddw.org ""BEN-2293""",conference_society,4,DDW,DDW domain search
+"site:ddw.org ""Ben2293""",conference_society,4,DDW,DDW domain search
+"site:ddw.org ""Eczema""",conference_society,4,DDW,DDW domain search
+"site:diabetes.org ""32032""",conference_society,4,ADA,ADA domain search
+"site:diabetes.org ""4""",conference_society,4,ADA,ADA domain search
+"site:diabetes.org ""BEN-2293""",conference_society,4,ADA,ADA domain search
+"site:diabetes.org ""Ben2293""",conference_society,4,ADA,ADA domain search
+"site:diabetes.org ""Eczema""",conference_society,4,ADA,ADA domain search
+"site:eadv.org ""32032""",conference_society,4,EADV,EADV domain search
+"site:eadv.org ""4""",conference_society,4,EADV,EADV domain search
+"site:eadv.org ""BEN-2293""",conference_society,4,EADV,EADV domain search
+"site:eadv.org ""Ben2293""",conference_society,4,EADV,EADV domain search
+"site:eadv.org ""Eczema""",conference_society,4,EADV,EADV domain search
+"site:ehaweb.org ""32032""",conference_society,4,EHA,EHA domain search
+"site:ehaweb.org ""4""",conference_society,4,EHA,EHA domain search
+"site:ehaweb.org ""BEN-2293""",conference_society,4,EHA,EHA domain search
+"site:ehaweb.org ""Ben2293""",conference_society,4,EHA,EHA domain search
+"site:ehaweb.org ""Eczema""",conference_society,4,EHA,EHA domain search
+"site:endocrine.org ""32032""",conference_society,4,ENDO,ENDO domain search
+"site:endocrine.org ""4""",conference_society,4,ENDO,ENDO domain search
+"site:endocrine.org ""BEN-2293""",conference_society,4,ENDO,ENDO domain search
+"site:endocrine.org ""Ben2293""",conference_society,4,ENDO,ENDO domain search
+"site:endocrine.org ""Eczema""",conference_society,4,ENDO,ENDO domain search
+"site:esmo.org ""32032""",conference_society,4,ESMO,ESMO domain search
+"site:esmo.org ""4""",conference_society,4,ESMO,ESMO domain search
+"site:esmo.org ""BEN-2293""",conference_society,4,ESMO,ESMO domain search
+"site:esmo.org ""Ben2293""",conference_society,4,ESMO,ESMO domain search
+"site:esmo.org ""Eczema""",conference_society,4,ESMO,ESMO domain search
+"site:eular.org ""32032""",conference_society,4,EULAR,EULAR domain search
+"site:eular.org ""4""",conference_society,4,EULAR,EULAR domain search
+"site:eular.org ""BEN-2293""",conference_society,4,EULAR,EULAR domain search
+"site:eular.org ""Ben2293""",conference_society,4,EULAR,EULAR domain search
+"site:eular.org ""Eczema""",conference_society,4,EULAR,EULAR domain search
+"site:sitcancer.org ""32032""",conference_society,4,SITC,SITC domain search
+"site:sitcancer.org ""4""",conference_society,4,SITC,SITC domain search
+"site:sitcancer.org ""BEN-2293""",conference_society,4,SITC,SITC domain search
+"site:sitcancer.org ""Ben2293""",conference_society,4,SITC,SITC domain search
+"site:sitcancer.org ""Eczema""",conference_society,4,SITC,SITC domain search
+"site:ueg.eu ""32032""",conference_society,4,UEG,UEG domain search
+"site:ueg.eu ""4""",conference_society,4,UEG,UEG domain search
+"site:ueg.eu ""BEN-2293""",conference_society,4,UEG,UEG domain search
+"site:ueg.eu ""Ben2293""",conference_society,4,UEG,UEG domain search
+"site:ueg.eu ""Eczema""",conference_society,4,UEG,UEG domain search

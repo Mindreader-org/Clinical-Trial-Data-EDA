@@ -1,0 +1,479 @@
+alias,alias_type,source,confidence,notes
+Ben2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+BEN2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+ben2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+"BEN
+2293",deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+"Ben
+2293",deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+"ben
+2293",deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+BEN 2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+ben 2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+Ben 2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+ben-2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+Ben-2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+BEN-2293,deterministic,input,90,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+ben_2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+BEN_2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+Ben_2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+ben‐2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+Ben‐2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+BEN‐2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+ben‑2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+Ben‑2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+BEN‑2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+BEN–2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+Ben–2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+ben–2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+ben—2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+Ben—2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+BEN—2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+ben−2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+Ben−2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+BEN−2293,deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+"ben 
+2293",deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+"BEN 
+2293",deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+"Ben 
+2293",deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+"ben-
+2293",deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+"BEN-
+2293",deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+"Ben-
+2293",deterministic,input,75,"Generated from asset name spelling, hyphen, whitespace, case, ASCII, and PDF line-break variants."
+BEN2293 (0.25% or 1.0% w/w) or matching placebo,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT04737304
+BEN2293,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT04737304
+BB-2293-101b,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT04737304
+BenevolentAI Bio,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT04737304
+Atopic Dermatitis,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT04737304
+Atoderm SOS spray Aerosol 200ml,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT04986384
+BAIS2018,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT04986384
+Prof. HON Kam Lun Ellis,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT04986384
+Eczema,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT04986384
+Montelukast,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT00557284
+Placebo,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT00557284
+32032,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT00557284
+1st Allergy & Clinical Research Center,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT00557284
+4,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT03831646
+Astana Medical University,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT03831646
+Psoriasis,source_derived,ClinicalTrials.gov,80,Derived from CT.gov study NCT03831646
+Air,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2108889
+"Air, medicinal",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2108889
+"Air, synthetic medicinal",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2108889
+Medical air,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2108889
+"AIR, MEDICAL",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2108889
+UNIVERSAL LIGAND,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL413893
+Dinitrogen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+E-941,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+E941,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+INS-941,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+INS NO.941,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+Liquid nitrogen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+Molecular nitrogen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+Nitrogen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+Nitrogen gas,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+"Nitrogen, liquid",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+Nitrogen (n2),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+NITROGEN,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438
+Carbon dioxide,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871
+Carbonic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871
+Dry ice (solid form),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871
+E-290,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871
+E290,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871
+INS-290,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871
+INS NO.290,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871
+NSC-81688,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871
+CARBON DIOXIDE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871
+Dioxygen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+E-948,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+E948,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+INS-948,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+INS NO.948,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+Medicinal oxygen air liquide sante,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+Molecular oxygen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+Oxygen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+Oxygen 93 percent,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+OXYGEN COMPONENT OF RNS-60,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+OXYGEN COMPONENT OF RNS60,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+Oxygenium,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+Oxygen molecule,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+OXYGEN,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886
+E-939,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997
+E939,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997
+Helium,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997
+Helium-4,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997
+INS-939,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997
+INS NO.939,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997
+HELIUM,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997
+E-422,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+E422,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+FEMA NO. 2525,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Glicerol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Glycerin,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+"Glycerin,anhydrous",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Glycerin component of monoctanoin  d,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Glycerin component of procalamine,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Glycerinum,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Glycerol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Glycerol 85%,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Glycerolum,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Glycogelatin,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+INS-422,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+INS NO.422,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Keybells,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+M 314429,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Nirolex,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+NSC-9230,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+PZN 7474853,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Senokot direct relief,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Tixylix baby,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Tixylix toddler,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Tryhydroxypropane,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+Waterhouse,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+GLYCERIN,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692
+FEMA NO. 3287,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773
+Glicina,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773
+Glycine,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773
+Glycolixir,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773
+NSC-25936,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773
+GLYCINE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773
+Acidum phosphoricum,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+Amberphos 54,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+E 338,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+E-338,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+E338,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+FEMA NO. 2900,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+INS-338,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+INS NO.338,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+NSC-80804,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+Phosphoric acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+Phosphoric acid component of procalamine,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+Phosphoricum acidum,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+Vococid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+Wc-reiniger,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+Y-11A06,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+PHOSPHORIC ACID,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187
+7B5697N,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+D-glucitol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+D-glucitol syrup,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+D-sorbitol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+E 420,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+E-420(i),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+FEMA NO. 3029,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+"Glucitol, d-",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+Ins-420(i),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+Ins no.420(i),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+"Isomalt impurity, sorbitol-",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+Neosorb p 60w,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+NSC-25944,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+Sorbitol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+Sorbitol component of -mannitol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+Sorbitol (e420),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+Sorbitol solutions,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+SORBITOL,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682
+FEMA NO. 3709,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845
+Heat spray,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845
+Methyl nicotinate,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845
+Methylnicotinate,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845
+NSC-13126,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845
+Vitathone,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845
+METHYL NICOTINATE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845
+Demofix,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1201196
+FI-7045,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1201196
+Sertaconazol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1201196
+Sertaconazole,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1201196
+SERTACONAZOLE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1201196
+4-imidazolecarboxylic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1773943
+4-IMIDAZOLECARBOXYLIC ACID,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1773943
+Ati-1777,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5856622
+ATI-1777,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5856622
+ATI1777,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5856622
+Lepzacitinib,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5856622
+LEPZACITINIB,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5856622
+20:3(N-6),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+20:3 (.omega.-6) fatty acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+"8z,11z,14z-eicosatrienoic acid",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+Bishomo-.gamma.-linolenic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+"Cis-8,11,14-eicosatrienoicacid",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+Daleuton,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+Dihomo-.gamma.-linolenic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+Dihomo-gamma-linolenic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+Diroleuton,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+Ds-107,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+Ds107,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+DS-107G,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+DS107G,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+.gamma.-homolinolenic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+RO 12-1989,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+DIHOMO-GAMMA-LINOLENIC ACID,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183
+E-6005,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL3989967
+E6005,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL3989967
+Lotamilast,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL3989967
+RVT-501,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL3989967
+LOTAMILAST,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL3989967
+A-301,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441
+Ati-50002,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441
+ATI50002,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441
+Ati-502,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441
+ATI-502,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441
+Ifidancitinib,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441
+IFIDANCITINIB,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441
+KIND-016,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4650239
+KIND-037,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4650239
+Tirnovetmab,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4650239
+TIRNOVETMAB,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4650239
+BI PH10,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069
+Itruvona,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069
+Itruvone,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069
+Ph-10,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069
+PH10,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069
+ITRUVONE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069
+Ompekimig,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068473
+Pf-07264660,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068473
+PF-07264660,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068473
+OMPEKIMIG,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068473
+Pf-07275315,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068474
+PF-07275315,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068474
+Tilrekimig,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068474
+TILREKIMIG,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068474
+Bavisant dihydrochloride,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715
+Bavisant dihydrochloride monohydrate,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715
+Ben-2001,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715
+BEN-2001,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715
+JNJ-31001074-AAC,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715
+BAVISANT DIHYDROCHLORIDE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715
+MULBERROFURAN W,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL562810
+KANZONOL W,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL591772
+MACROLACTIN W,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1780188
+Dihomo-gamma-linolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+1783-84-2,source_derived,PubChem,70,PubChem synonym for CID 5280581
+DGLA,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"(8Z,11Z,14Z)-icosa-8,11,14-trienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+gamma-Homolinolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+diroleuton,source_derived,PubChem,70,PubChem synonym for CID 5280581
+Homo-gamma-linolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"8Z,11Z,14Z-eicosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+Bishomo-gamma-linolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"all-cis-8,11,14-Eicosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"(Z,Z,Z)-8,11,14-Eicosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+Daleuton,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"(8Z,11Z,14Z)-Icosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"(Z,Z,Z)-8,11,14-Icosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"cis,cis,cis-8,11,14-Eicosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"all-cis-icosa-8,11,14-trienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"8c,11c,14c-eicosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+DS107,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"eicosa-8Z,11Z,14Z-trienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"20:3, n-6,9,12 all-cis",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"all-cis-8,11,14-icosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+DS107G,source_derived,PubChem,70,PubChem synonym for CID 5280581
+FC398RK06S,source_derived,PubChem,70,PubChem synonym for CID 5280581
+Ds-107,source_derived,PubChem,70,PubChem synonym for CID 5280581
+DS-107G,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"8, 11, 14-eicosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"C20:3, n-6,9,12 all-cis",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"all-cis-eicosa-8,11,14-trienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+20:3(N-6),source_derived,PubChem,70,PubChem synonym for CID 5280581
+CHEBI:53486,source_derived,PubChem,70,PubChem synonym for CID 5280581
+RefChem:1083580,source_derived,PubChem,70,PubChem synonym for CID 5280581
+Fatty Acid 20:3 n-6,source_derived,PubChem,70,PubChem synonym for CID 5280581
+20:3 (omega-6) fatty acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+217-233-0,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"cis-8,11,14-Eicosatrienoic Acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"8,11,14-Icosatrienoate",source_derived,PubChem,70,PubChem synonym for CID 5280581
+Ro 12-1989,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"8,11,14-Eicosatrienoate",source_derived,PubChem,70,PubChem synonym for CID 5280581
+Dihomo-gamma-linolenate,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"(Z,Z,Z)-8,11,14-Icosatrienoate",source_derived,PubChem,70,PubChem synonym for CID 5280581
+Dihomo-|A-linolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+.gamma.-Homolinolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"(Z,Z,Z)-8,11,14-Eicosatrienoate",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"8,11,14-all-cis-Eicosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+Dihomo-.gamma.-linolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"all cis-8,11,14-Eicosatrienoic Acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+CCRIS 7669,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"(Z,Z,Z)-Icosatri-8,11,14-enoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"cis-8,cis-11,cis-14-Eicosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+MFCD00065721,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"8,11,14-Icosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+Bishomo-.gamma.-linolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+CHEMBL465183,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"8,11-14-Eicosatrienoic acid, (Z,Z,Z)-",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"8,11,14-eicosatrienoic acid, (8Z,11Z,14Z)-",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"FA(20:3(8Z,11Z,14Z))",source_derived,PubChem,70,PubChem synonym for CID 5280581
+"(8Z,11Z,14Z)-8,11,14-Eicosatrienoic acid",source_derived,PubChem,70,PubChem synonym for CID 5280581
+cis-8 pound not11 pound not14-Eicosatrienoic Acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"all-cis-8,11,14-Eicosatrienoate",source_derived,PubChem,70,PubChem synonym for CID 5280581
+Homo-gamma-linolensaeure,source_derived,PubChem,70,PubChem synonym for CID 5280581
+UNII-FC398RK06S,source_derived,PubChem,70,PubChem synonym for CID 5280581
+Eicosatrienoate,source_derived,PubChem,70,PubChem synonym for CID 5280581
+Dihomolinolenate,source_derived,PubChem,70,PubChem synonym for CID 5280581
+BML3-B11,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"8c,11c,14c-Eicosatriensaeure",source_derived,PubChem,70,PubChem synonym for CID 5280581
+gamma-Homolinolenate,source_derived,PubChem,70,PubChem synonym for CID 5280581
+EINECS 217-233-0,source_derived,PubChem,70,PubChem synonym for CID 5280581
+"all-cis-Eicosa-8,11,14-triensaeure",source_derived,PubChem,70,PubChem synonym for CID 5280581
+Homo-gamma-linolenate,source_derived,PubChem,70,PubChem synonym for CID 5280581
+C 20:3 n-6,source_derived,PubChem,70,PubChem synonym for CID 5280581
+Bishomo-gamma-linolenate,source_derived,PubChem,70,PubChem synonym for CID 5280581
+DALEUTON [INN],source_derived,PubChem,70,PubChem synonym for CID 5280581
+Dihomo-IU-linolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+dihomo-gamma-linolenic-acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+Dibromo-gamma-linolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+di-homo gamma-linolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+dihomo -gamma-linolenic acid,source_derived,PubChem,70,PubChem synonym for CID 5280581
+DIROLEUTON [WHO-DD],source_derived,PubChem,70,PubChem synonym for CID 5280581
+BSPBio_001286,source_derived,PubChem,70,PubChem synonym for CID 5280581
+SCHEMBL842729,source_derived,PubChem,70,PubChem synonym for CID 5280581
+D-Sorbitol,source_derived,PubChem,70,PubChem synonym for CID 5780
+sorbitol,source_derived,PubChem,70,PubChem synonym for CID 5780
+D-Glucitol,source_derived,PubChem,70,PubChem synonym for CID 5780
+50-70-4,source_derived,PubChem,70,PubChem synonym for CID 5780
+glucitol,source_derived,PubChem,70,PubChem synonym for CID 5780
+Glucarine,source_derived,PubChem,70,PubChem synonym for CID 5780
+(-)-Sorbitol,source_derived,PubChem,70,PubChem synonym for CID 5780
+Nivitin,source_derived,PubChem,70,PubChem synonym for CID 5780
+D-(-)-Sorbitol,source_derived,PubChem,70,PubChem synonym for CID 5780
+Diakarmon,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbilande,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbostyl,source_derived,PubChem,70,PubChem synonym for CID 5780
+Esasorb,source_derived,PubChem,70,PubChem synonym for CID 5780
+Multitol,source_derived,PubChem,70,PubChem synonym for CID 5780
+Neosorb,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbo,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbol,source_derived,PubChem,70,PubChem synonym for CID 5780
+Cholaxine,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sionit,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sionite,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sionon,source_derived,PubChem,70,PubChem synonym for CID 5780
+Siosan,source_derived,PubChem,70,PubChem synonym for CID 5780
+Karion instant,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbitol F,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbex Rp,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbitol FP,source_derived,PubChem,70,PubChem synonym for CID 5780
+D-Sorbol,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sionit K,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbex M,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbex R,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbex S,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbex X,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbicolan,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorvilande,source_derived,PubChem,70,PubChem synonym for CID 5780
+Gulitol,source_derived,PubChem,70,PubChem synonym for CID 5780
+D-Sorbite,source_derived,PubChem,70,PubChem synonym for CID 5780
+Neosorb P 60,source_derived,PubChem,70,PubChem synonym for CID 5780
+Foodol D 70,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbit,source_derived,PubChem,70,PubChem synonym for CID 5780
+Neosorb 20/60DC,source_derived,PubChem,70,PubChem synonym for CID 5780
+"Glucitol, D-",source_derived,PubChem,70,PubChem synonym for CID 5780
+Neosorb 70/70,source_derived,PubChem,70,PubChem synonym for CID 5780
+Neosorb P 20/60,source_derived,PubChem,70,PubChem synonym for CID 5780
+Karion,source_derived,PubChem,70,PubChem synonym for CID 5780
+Karion (carbohydrate),source_derived,PubChem,70,PubChem synonym for CID 5780
+"(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol",source_derived,PubChem,70,PubChem synonym for CID 5780
+FEMA No. 3029,source_derived,PubChem,70,PubChem synonym for CID 5780
+Hexahydric alcohol,source_derived,PubChem,70,PubChem synonym for CID 5780
+Neosorb P 60W,source_derived,PubChem,70,PubChem synonym for CID 5780
+DTXSID5023588,source_derived,PubChem,70,PubChem synonym for CID 5780
+"1,2,3,4,5,6-Hexanehexol",source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbitol (e420),source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbitol 3% in plastic container,source_derived,PubChem,70,PubChem synonym for CID 5780
+Ins no.420(i),source_derived,PubChem,70,PubChem synonym for CID 5780
+Ins-420(i),source_derived,PubChem,70,PubChem synonym for CID 5780
+CHEBI:17924,source_derived,PubChem,70,PubChem synonym for CID 5780
+SORBITOL 3.3% IN PLASTIC CONTAINER,source_derived,PubChem,70,PubChem synonym for CID 5780
+E 420,source_derived,PubChem,70,PubChem synonym for CID 5780
+E-420(i),source_derived,PubChem,70,PubChem synonym for CID 5780
+NSC-25944,source_derived,PubChem,70,PubChem synonym for CID 5780
+506T60A25R,source_derived,PubChem,70,PubChem synonym for CID 5780
+7B5697N,source_derived,PubChem,70,PubChem synonym for CID 5780
+DTXCID903588,source_derived,PubChem,70,PubChem synonym for CID 5780
+E420,source_derived,PubChem,70,PubChem synonym for CID 5780
+Microlax Enema,source_derived,PubChem,70,PubChem synonym for CID 5780
+RefChem:6499,source_derived,PubChem,70,PubChem synonym for CID 5780
+GlyTouCan:G32374SR,source_derived,PubChem,70,PubChem synonym for CID 5780
+GeriCare Sorbitol Solution,source_derived,PubChem,70,PubChem synonym for CID 5780
+shediary turmeric face cream,source_derived,PubChem,70,PubChem synonym for CID 5780
+CHEBI:30911,source_derived,PubChem,70,PubChem synonym for CID 5780
+G32374SR,source_derived,PubChem,70,PubChem synonym for CID 5780
+200-061-5,source_derived,PubChem,70,PubChem synonym for CID 5780
+619-324-4,source_derived,PubChem,70,PubChem synonym for CID 5780
+NSC25944,source_derived,PubChem,70,PubChem synonym for CID 5780
+L-Gulitol,source_derived,PubChem,70,PubChem synonym for CID 5780
+Sorbite,source_derived,PubChem,70,PubChem synonym for CID 5780
+d-Sorbit,source_derived,PubChem,70,PubChem synonym for CID 5780
+"(2R,3R,4R,5S)-Hexane-1,2,3,4,5,6-hexaol",source_derived,PubChem,70,PubChem synonym for CID 5780
+Neosorb 70/02,source_derived,PubChem,70,PubChem synonym for CID 5780
+Probilagol,source_derived,PubChem,70,PubChem synonym for CID 5780
+ifidancitinib,source_derived,PubChem,70,PubChem synonym for CID 46851625
+ATI-502,source_derived,PubChem,70,PubChem synonym for CID 46851625
+Ifidancitinib [INN],source_derived,PubChem,70,PubChem synonym for CID 46851625
+A-301,source_derived,PubChem,70,PubChem synonym for CID 46851625
+ATI-50002,source_derived,PubChem,70,PubChem synonym for CID 46851625
+R105E71J13,source_derived,PubChem,70,PubChem synonym for CID 46851625
+UNII-R105E71J13,source_derived,PubChem,70,PubChem synonym for CID 46851625
+"5-[[2-(4-fluoro-3-methoxy-5-methylanilino)-5-methylpyrimidin-4-yl]amino]-3H-1,3-benzoxazol-2-one",source_derived,PubChem,70,PubChem synonym for CID 46851625
+IFIDANCITINIB [WHO-DD],source_derived,PubChem,70,PubChem synonym for CID 46851625
+"2(3H)-Benzoxazolone, 5-((2-((4-fluoro-3-methoxy-5-methylphenyl)amino)-5-methyl-4-pyrimidinyl)amino)-",source_derived,PubChem,70,PubChem synonym for CID 46851625
+5-((2-((4-Fluoro-3-methoxy-5-methylphenyl)amino)-5-methyl-4-pyrimidinyl)amino)-2(3H)-benzoxazolone,source_derived,PubChem,70,PubChem synonym for CID 46851625
+5-((2-(4-Fluoro-3-methoxy-5-methylphenylamino)-5-methylpyrimidin-4-yl)amino)benzo(d)oxazol-2(3H)-one,source_derived,PubChem,70,PubChem synonym for CID 46851625
+5-[[2-[(4-Fluoro-3-methoxy-5-methylphenyl)amino]-5-methyl-4-pyrimidinyl]amino]-2(3H)-benzoxazolone,source_derived,PubChem,70,PubChem synonym for CID 46851625
+"5-((2-(4-fluoro-3-methoxy-5-methylanilino)-5-methylpyrimidin-4-yl)amino)-3H-1,3-benzoxazol-2-one",source_derived,PubChem,70,PubChem synonym for CID 46851625
+RefChem:147735,source_derived,PubChem,70,PubChem synonym for CID 46851625
+1236667-40-5,source_derived,PubChem,70,PubChem synonym for CID 46851625
+ATI50002,source_derived,PubChem,70,PubChem synonym for CID 46851625
+5-((2-((4-fluoro-3-methoxy-5-methylphenyl)amino)-5-methylpyrimidin-4-yl)amino)benzo[d]oxazol-2(3H)-one,source_derived,PubChem,70,PubChem synonym for CID 46851625
+SCHEMBL342002,source_derived,PubChem,70,PubChem synonym for CID 46851625
+orb2703179,source_derived,PubChem,70,PubChem synonym for CID 46851625
+CHEMBL4594441,source_derived,PubChem,70,PubChem synonym for CID 46851625
+SCHEMBL15392043,source_derived,PubChem,70,PubChem synonym for CID 46851625
+SCHEMBL29360646,source_derived,PubChem,70,PubChem synonym for CID 46851625
+SCHEMBL29609558,source_derived,PubChem,70,PubChem synonym for CID 46851625
+GTPL10638,source_derived,PubChem,70,PubChem synonym for CID 46851625
+OYFMQDVLFYKOPZ-UHFFFAOYSA-N,source_derived,PubChem,70,PubChem synonym for CID 46851625
+GLXC-26497,source_derived,PubChem,70,PubChem synonym for CID 46851625
+EX-A5899,source_derived,PubChem,70,PubChem synonym for CID 46851625
+BDBM50593320,source_derived,PubChem,70,PubChem synonym for CID 46851625
+AKOS040756566,source_derived,PubChem,70,PubChem synonym for CID 46851625
+EBC-515404,source_derived,PubChem,70,PubChem synonym for CID 46851625
+AC-38218,source_derived,PubChem,70,PubChem synonym for CID 46851625
+DA-64384,source_derived,PubChem,70,PubChem synonym for CID 46851625
+MS-26651,source_derived,PubChem,70,PubChem synonym for CID 46851625
+HY-109178,source_derived,PubChem,70,PubChem synonym for CID 46851625
+CS-0116375,source_derived,PubChem,70,PubChem synonym for CID 46851625
+G18487,source_derived,PubChem,70,PubChem synonym for CID 46851625
+T38623,source_derived,PubChem,70,PubChem synonym for CID 46851625
+"5-({2-[(4-fluoro-3-methoxy-5-methylphenyl)amino]-5-methylpyrimidin-4-yl}amino)-2,3-dihydro-1,3-benzoxazol-2-one",source_derived,PubChem,70,PubChem synonym for CID 46851625
+5-(2-(4-fluoro-3-methoxy-5-methylphenylamino)-5-methylpyrimidin-4-ylamino)benzo[d]oxazol-2(3h)-one,source_derived,PubChem,70,PubChem synonym for CID 46851625
+Lepzacitinib,source_derived,PubChem,70,PubChem synonym for CID 138624627
+2321488-47-3,source_derived,PubChem,70,PubChem synonym for CID 138624627
+ATI1777,source_derived,PubChem,70,PubChem synonym for CID 138624627
+ATI-1777,source_derived,PubChem,70,PubChem synonym for CID 138624627
+Lepzacitinib (USAN),source_derived,PubChem,70,PubChem synonym for CID 138624627
+LEPZACITINIB [USAN],source_derived,PubChem,70,PubChem synonym for CID 138624627
+"ethyl 4-[[(3R)-1-(2-cyanoacetyl)piperidin-3-yl]amino]-1H-pyrrolo[2,3-b]pyridine-5-carboxylate",source_derived,PubChem,70,PubChem synonym for CID 138624627
+lepzacitinib [INN],source_derived,PubChem,70,PubChem synonym for CID 138624627
+Lepzacitinib [WHO-DD],source_derived,PubChem,70,PubChem synonym for CID 138624627
+DQN3V3R84U,source_derived,PubChem,70,PubChem synonym for CID 138624627
+orb1944621,source_derived,PubChem,70,PubChem synonym for CID 138624627
+orb3033042,source_derived,PubChem,70,PubChem synonym for CID 138624627
+CHEMBL5856622,source_derived,PubChem,70,PubChem synonym for CID 138624627
+SCHEMBL20990174,source_derived,PubChem,70,PubChem synonym for CID 138624627
+SCHEMBL30525804,source_derived,PubChem,70,PubChem synonym for CID 138624627
+GTPL12871,source_derived,PubChem,70,PubChem synonym for CID 138624627
+BDBM493018,source_derived,PubChem,70,PubChem synonym for CID 138624627
+"US10981906, Example 117",source_derived,PubChem,70,PubChem synonym for CID 138624627
+DA-54859,source_derived,PubChem,70,PubChem synonym for CID 138624627
+example 117 [WO2019090158A1],source_derived,PubChem,70,PubChem synonym for CID 138624627
+HY-156621,source_derived,PubChem,70,PubChem synonym for CID 138624627
+CS-0886449,source_derived,PubChem,70,PubChem synonym for CID 138624627
+D12786,source_derived,PubChem,70,PubChem synonym for CID 138624627
+H42857,source_derived,PubChem,70,PubChem synonym for CID 138624627
+T78207,source_derived,PubChem,70,PubChem synonym for CID 138624627
+"1H-Pyrrolo[2,3-b]pyridine-5-carboxylic acid, 4-[[(3R)-1-(2-cyanoacetyl)-3-piperidinyl]amino]-, ethyl ester",source_derived,PubChem,70,PubChem synonym for CID 138624627
+"Ethyl (3R)-4-((1-(2-cyanoacetyl)piperidin-3-yl)amino)-1H-pyrrolo[2,3-b]pyridine-5-carboxylate",source_derived,PubChem,70,PubChem synonym for CID 138624627
+"ethyl (R)-4-((1-(2-cyanoacetyl)piperidin-3-yl)amino)- 1H-pyrrolo[2,3-b]pyridine-5-carboxylate",source_derived,PubChem,70,PubChem synonym for CID 138624627
+"Ethyl 4-{[(3R)-1-(cyanoacetyl)piperidin-3-yl]amino}-1Hpyrrolo[ 2,3-b]pyridine-5-carboxylate",source_derived,PubChem,70,PubChem synonym for CID 138624627

@@ -1,0 +1,12 @@
+source,searched,skipped,reason,records,timestamp_utc
+ClinicalTrials.gov,True,False,"version=2.0.5, timestamp=2026-06-30T09:00:05",4,2026-06-30T13:42:19Z
+PubMed,True,False,40 high-priority queries,886,2026-06-30T13:47:43Z
+PMC BioC,True,False,602 PubMed/PMCID identifiers attempted,0,2026-06-30T13:51:27Z
+Europe PMC,True,False,35 queries,882,2026-06-30T13:52:26Z
+ChEMBL,True,False,"Molecule, indication, and mechanism enrichment",243,2026-06-30T14:00:05Z
+PubChem,True,False,CID and synonym enrichment,229,2026-06-30T14:00:44Z
+Crossref,True,False,45 queries,808,2026-06-30T14:05:47Z
+OpenAlex,True,False,45 queries,587,2026-06-30T14:07:36Z
+Semantic Scholar,True,False,35 queries; api_key=no,377,2026-06-30T14:11:24Z
+Exa,False,True,USE_EXA=False,0,2026-06-30T14:11:24Z
+PDF/web body fetch,True,False,80 URLs attempted; PyMuPDF=no,269,2026-06-30T14:14:13Z

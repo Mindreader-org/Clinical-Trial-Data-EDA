@@ -1,0 +1,189 @@
+alias,alias_type,source,confidence,notes,molecule_chembl_id
+Air,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2108889,CHEMBL2108889
+"Air, medicinal",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2108889,CHEMBL2108889
+"Air, synthetic medicinal",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2108889,CHEMBL2108889
+Medical air,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2108889,CHEMBL2108889
+"AIR, MEDICAL",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2108889,CHEMBL2108889
+UNIVERSAL LIGAND,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL413893,CHEMBL413893
+Dinitrogen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+E-941,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+E941,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+INS-941,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+INS NO.941,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+Liquid nitrogen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+Molecular nitrogen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+Nitrogen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+Nitrogen gas,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+"Nitrogen, liquid",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+Nitrogen (n2),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+NITROGEN,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL142438,CHEMBL142438
+Carbon dioxide,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871,CHEMBL1231871
+Carbonic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871,CHEMBL1231871
+Dry ice (solid form),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871,CHEMBL1231871
+E-290,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871,CHEMBL1231871
+E290,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871,CHEMBL1231871
+INS-290,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871,CHEMBL1231871
+INS NO.290,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871,CHEMBL1231871
+NSC-81688,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871,CHEMBL1231871
+CARBON DIOXIDE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1231871,CHEMBL1231871
+Dioxygen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+E-948,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+E948,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+INS-948,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+INS NO.948,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+Medicinal oxygen air liquide sante,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+Molecular oxygen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+Oxygen,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+Oxygen 93 percent,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+OXYGEN COMPONENT OF RNS-60,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+OXYGEN COMPONENT OF RNS60,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+Oxygenium,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+Oxygen molecule,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+OXYGEN,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1234886,CHEMBL1234886
+E-939,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997,CHEMBL1796997
+E939,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997,CHEMBL1796997
+Helium,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997,CHEMBL1796997
+Helium-4,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997,CHEMBL1796997
+INS-939,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997,CHEMBL1796997
+INS NO.939,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997,CHEMBL1796997
+HELIUM,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1796997,CHEMBL1796997
+E-422,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+E422,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+FEMA NO. 2525,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Glicerol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Glycerin,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+"Glycerin,anhydrous",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Glycerin component of monoctanoin  d,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Glycerin component of procalamine,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Glycerinum,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Glycerol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Glycerol 85%,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Glycerolum,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Glycogelatin,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+INS-422,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+INS NO.422,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Keybells,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+M 314429,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Nirolex,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+NSC-9230,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+PZN 7474853,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Senokot direct relief,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Tixylix baby,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Tixylix toddler,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Tryhydroxypropane,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+Waterhouse,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+GLYCERIN,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL692,CHEMBL692
+FEMA NO. 3287,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773,CHEMBL773
+Glicina,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773,CHEMBL773
+Glycine,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773,CHEMBL773
+Glycolixir,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773,CHEMBL773
+NSC-25936,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773,CHEMBL773
+GLYCINE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL773,CHEMBL773
+Acidum phosphoricum,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+Amberphos 54,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+E 338,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+E-338,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+E338,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+FEMA NO. 2900,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+INS-338,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+INS NO.338,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+NSC-80804,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+Phosphoric acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+Phosphoric acid component of procalamine,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+Phosphoricum acidum,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+Vococid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+Wc-reiniger,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+Y-11A06,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+PHOSPHORIC ACID,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1187,CHEMBL1187
+7B5697N,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+D-glucitol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+D-glucitol syrup,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+D-sorbitol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+E 420,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+E-420(i),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+FEMA NO. 3029,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+"Glucitol, d-",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+Ins-420(i),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+Ins no.420(i),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+"Isomalt impurity, sorbitol-",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+Neosorb p 60w,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+NSC-25944,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+Sorbitol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+Sorbitol component of -mannitol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+Sorbitol (e420),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+Sorbitol solutions,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+SORBITOL,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1682,CHEMBL1682
+FEMA NO. 3709,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845,CHEMBL379845
+Heat spray,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845,CHEMBL379845
+Methyl nicotinate,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845,CHEMBL379845
+Methylnicotinate,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845,CHEMBL379845
+NSC-13126,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845,CHEMBL379845
+Vitathone,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845,CHEMBL379845
+METHYL NICOTINATE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL379845,CHEMBL379845
+Demofix,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1201196,CHEMBL1201196
+FI-7045,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1201196,CHEMBL1201196
+Sertaconazol,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1201196,CHEMBL1201196
+Sertaconazole,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1201196,CHEMBL1201196
+SERTACONAZOLE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1201196,CHEMBL1201196
+4-imidazolecarboxylic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1773943,CHEMBL1773943
+4-IMIDAZOLECARBOXYLIC ACID,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1773943,CHEMBL1773943
+Ati-1777,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5856622,CHEMBL5856622
+ATI-1777,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5856622,CHEMBL5856622
+ATI1777,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5856622,CHEMBL5856622
+Lepzacitinib,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5856622,CHEMBL5856622
+LEPZACITINIB,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5856622,CHEMBL5856622
+20:3(N-6),source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+20:3 (.omega.-6) fatty acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+"8z,11z,14z-eicosatrienoic acid",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+Bishomo-.gamma.-linolenic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+"Cis-8,11,14-eicosatrienoicacid",source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+Daleuton,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+Dihomo-.gamma.-linolenic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+Dihomo-gamma-linolenic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+Diroleuton,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+Ds-107,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+Ds107,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+DS-107G,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+DS107G,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+.gamma.-homolinolenic acid,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+RO 12-1989,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+DIHOMO-GAMMA-LINOLENIC ACID,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL465183,CHEMBL465183
+E-6005,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL3989967,CHEMBL3989967
+E6005,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL3989967,CHEMBL3989967
+Lotamilast,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL3989967,CHEMBL3989967
+RVT-501,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL3989967,CHEMBL3989967
+LOTAMILAST,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL3989967,CHEMBL3989967
+A-301,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441,CHEMBL4594441
+Ati-50002,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441,CHEMBL4594441
+ATI50002,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441,CHEMBL4594441
+Ati-502,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441,CHEMBL4594441
+ATI-502,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441,CHEMBL4594441
+Ifidancitinib,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441,CHEMBL4594441
+IFIDANCITINIB,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4594441,CHEMBL4594441
+KIND-016,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4650239,CHEMBL4650239
+KIND-037,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4650239,CHEMBL4650239
+Tirnovetmab,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4650239,CHEMBL4650239
+TIRNOVETMAB,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL4650239,CHEMBL4650239
+BI PH10,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069,CHEMBL5095069
+Itruvona,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069,CHEMBL5095069
+Itruvone,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069,CHEMBL5095069
+Ph-10,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069,CHEMBL5095069
+PH10,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069,CHEMBL5095069
+ITRUVONE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL5095069,CHEMBL5095069
+Ompekimig,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068473,CHEMBL6068473
+Pf-07264660,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068473,CHEMBL6068473
+PF-07264660,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068473,CHEMBL6068473
+OMPEKIMIG,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068473,CHEMBL6068473
+Pf-07275315,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068474,CHEMBL6068474
+PF-07275315,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068474,CHEMBL6068474
+Tilrekimig,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068474,CHEMBL6068474
+TILREKIMIG,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL6068474,CHEMBL6068474
+Bavisant dihydrochloride,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715,CHEMBL2105715
+Bavisant dihydrochloride monohydrate,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715,CHEMBL2105715
+Ben-2001,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715,CHEMBL2105715
+BEN-2001,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715,CHEMBL2105715
+JNJ-31001074-AAC,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715,CHEMBL2105715
+BAVISANT DIHYDROCHLORIDE,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL2105715,CHEMBL2105715
+MULBERROFURAN W,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL562810,CHEMBL562810
+KANZONOL W,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL591772,CHEMBL591772
+MACROLACTIN W,source_derived,ChEMBL,75,ChEMBL synonym for CHEMBL1780188,CHEMBL1780188
